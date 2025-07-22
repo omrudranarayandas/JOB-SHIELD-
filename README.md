@@ -130,8 +130,8 @@ This project uses the popular [Real/Fake Job Postings](https://www.kaggle.com/da
 ## 👤 Author
 
 Om Rudra Narayan Das
-📧 [omrudranarayandas@example.com](mailto:omrudranarayandas@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+📧 [omrudranarayandas@gmail.com](mailto:omrudranarayandas@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/-rudradas/)
 
 ---
 
